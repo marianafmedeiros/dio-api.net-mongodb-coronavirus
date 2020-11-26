@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/cafecoteca/.dotnet/store/|arch|/|tfm|",
+      "/home/cafecoteca/.nuget/packages"
+    ]
+  }
+}
